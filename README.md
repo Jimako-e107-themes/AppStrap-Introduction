@@ -11,7 +11,7 @@ AppStrap is the first bootstrap4 theme for e107. The parent theme is named AppSt
 License:  Extended, including the extended license to Revolution Slider
 
 
-## AppStraprepositories map 
+## AppStrap Repositories Map 
 
 AppStrap private repositories:
 
