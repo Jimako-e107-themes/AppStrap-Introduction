@@ -19,7 +19,7 @@ AppStrap private repositories:
 * [AppStrap Parent Theme](https://github.com/e107-Appstrap-theme/AppStrap-Parent-Theme)  
 * [AppStrap Pricing Plans Plugin](https://github.com/e107-Appstrap-theme/AppStrap-Pricing-Plans-Plugin)  
 * [AppStrap Plugin](https://github.com/e107-Appstrap-theme/AppStrap-Plugin) 
-* [JMG Child Theme](https://github.com/e107-Appstrap-theme/JMG-Child-Theme) 
+* [JMG Child Theme](https://github.com/e107-Appstrap-theme/JMG-AppStrap-Child-Theme) 
 * [Appstrap Child Theme](https://github.com/e107-Appstrap-theme/Appstrap-Child-Theme) 
 
 Note:
