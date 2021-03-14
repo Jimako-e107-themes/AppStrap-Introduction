@@ -33,6 +33,8 @@ AppStrap Plugin for JMG is different because Revolution Slider
 2. test and fix JMG theme for 2.3.1
 
 In the far future:
+
 3. create a new parent theme with HTML layouts AppStrap
 4. replace AppStrap4 plugins with JMT and JME plugins  
+
 
